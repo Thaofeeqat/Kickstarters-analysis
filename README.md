@@ -13,4 +13,6 @@ The kickstarter data was based on Lousie fundrasing campaign which has which has
 ![Image](https://github.com/Thaofeeqat/Kickstarters-analysis/blob/main/Theater_Outcome_vs_Launch_Date.png)
 
 4.Another pivot table was created based on the outcome of Louise goal which 76% of less than the 1000 goals were successful and 24% failed and 83%  of the goals greater than 50000 failed. This analysis is presented in the chart below;![Image](https://github.com/Thaofeeqat/Kickstarters-analysis/blob/main/Outcome_vs_goals.png)
-Other table that was created from this analysis is the parent category chart which shows the outcome of all categories .
+Other table that was created from this analysis is the parent category chart which shows the outcome of all categories ![Image](.https://github.com/Thaofeeqat/Kickstarters-analysis/blob/main/Parent%20Category%20Outcome.png)
+### Conclusion 
+The parent category  theater was a best choice for Lousie in because it has the most successfull outcome from the launch date and also a good outcome of goals.
